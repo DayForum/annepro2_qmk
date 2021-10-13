@@ -1,0 +1,11 @@
+C:\Users\Day\Downloads\AnnePro2-Tools-master\target\release\deps\proc_macro_error-1e3a14ce60d42e59.rmeta: C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\lib.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\dummy.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\diagnostic.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\macros.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\imp\fallback.rs
+
+C:\Users\Day\Downloads\AnnePro2-Tools-master\target\release\deps\libproc_macro_error-1e3a14ce60d42e59.rlib: C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\lib.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\dummy.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\diagnostic.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\macros.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\imp\fallback.rs
+
+C:\Users\Day\Downloads\AnnePro2-Tools-master\target\release\deps\proc_macro_error-1e3a14ce60d42e59.d: C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\lib.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\dummy.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\diagnostic.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\macros.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\imp\fallback.rs
+
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\lib.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\dummy.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\diagnostic.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\macros.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro-error-1.0.3\src\imp\fallback.rs:

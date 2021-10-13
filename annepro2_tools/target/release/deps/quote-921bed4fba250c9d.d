@@ -1,0 +1,13 @@
+C:\Users\Day\Downloads\AnnePro2-Tools-master\target\release\deps\quote-921bed4fba250c9d.rmeta: C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs
+
+C:\Users\Day\Downloads\AnnePro2-Tools-master\target\release\deps\libquote-921bed4fba250c9d.rlib: C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs
+
+C:\Users\Day\Downloads\AnnePro2-Tools-master\target\release\deps\quote-921bed4fba250c9d.d: C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs
+
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs:
+C:\Users\Day\.cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs:
