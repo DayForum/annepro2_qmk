@@ -1,5 +1,5 @@
 # in annepro2_qmk
-> make annepro2/c18
+> make annepro2/c18:rcw
 
 # in annepro2_shine
 > make C18
